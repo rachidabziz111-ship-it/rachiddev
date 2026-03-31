@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "ecommerce-revolution",
+    "title": "E-commerce Revolution",
+    "client": "Nexus Retail",
+    "description": "Boosted online sales by 240% with a custom platform.",
+    "challenge": "المنصة القديمة كانت تعاني من بطء قاتل، وتجربة مستخدم معقدة أدت إلى فقدان آلاف العملاء يومياً عند مرحلة الدفع.",
+    "solution": "هندسة منصة متطورة بالكامل باستخدام تقنيات الجيل القادم، مع خوارزميات ذكية لتوصية المنتجات ونظام دفع فائق السرعة والأمان.",
+    "results": [
+      "زيادة في المبيعات بنسبة 240%",
+      "سرعة تحميل لا تتجاوز 0.8 ثانية",
+      "ارتفاع معدل الاحتفاظ بالعملاء (Retention) بـ 150%"
+    ],
+    "image": "/assets/images/case-study-1.jpg"
+  },
+  {
+    "slug": "fintech-innovation",
+    "title": "Fintech Innovation",
+    "client": "AeroBank",
+    "description": "Onboarded 50K users in the first month.",
+    "challenge": "الحاجة إلى بناء تطبيق بنكي رقمي من الصفر، قادر على استيعاب ضغط هائل من المستخدمين مع توفير حماية سيبرانية من الدرجة العسكرية.",
+    "solution": "بناء بنية تحتية سحابية مرنة (Cloud-Native) مع تشفير كمومي للبيانات، وتصميم واجهة مستخدم (UI) هولوغرامية تكسر ملل التطبيقات البنكية التقليدية.",
+    "results": [
+      "تسجيل 50,000 مستخدم في الشهر الأول",
+      "0% حوادث اختراق أمني",
+      "تقييم 4.9/5 في متاجر التطبيقات"
+    ],
+    "image": "/assets/images/case-study-2.jpg"
+  },
+  {
+    "slug": "healthcare-ai",
+    "title": "Healthcare AI",
+    "client": "MediCore Labs",
+    "description": "Achieved 98% diagnostic accuracy with AI solutions.",
+    "challenge": "الأطباء كانوا يستغرقون وقتاً طويلاً في تحليل صور الأشعة الطبية، مع وجود نسبة خطأ بشري طبيعية تؤثر على سرعة العلاج.",
+    "solution": "تطوير نموذج ذكاء اصطناعي (Machine Learning) قادر على قراءة وتحليل آلاف الصور الطبية في ثوانٍ لاكتشاف الأنماط المخفية والتشوهات الدقيقة.",
+    "results": [
+      "دقة تشخيص وصلت إلى 98%",
+      "تقليل وقت الفحص بـ 300%",
+      "معالجة أكثر من 10,000 حالة شهرياً آلياً"
+    ],
+    "image": "/assets/images/case-study-3.jpg"
+  }
+]

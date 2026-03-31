@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "The Future of Web Development: What to Expect in 2025",
+      "slug": "future-of-web-development-2025",
+      "excerpt": "Explore the latest trends and technologies shaping the web development landscape.",
+      "content": "Full article content here...",
+      "imageUrl": "/assets/images/blog-1.jpg",
+      "author": "Rachid",
+      "publishedAt": "2025-03-15"
+    },
+    {
+      "id": "2",
+      "title": "How AI is Revolutionizing Digital Marketing",
+      "slug": "ai-revolutionizing-digital-marketing",
+      "excerpt": "Discover how artificial intelligence is changing the way we market online.",
+      "content": "Full article content here...",
+      "imageUrl": "/assets/images/blog-2.jpg",
+      "author": "Sara",
+      "publishedAt": "2025-03-10"
+    }
+  ]
+}

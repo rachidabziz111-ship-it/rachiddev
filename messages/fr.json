@@ -1,0 +1,134 @@
+{
+  "Navigation": {
+    "home": "Accueil",
+    "services": "Services",
+    "caseStudies": "Études de cas",
+    "about": "À propos",
+    "blog": "Blog",
+    "pricing": "Tarifs",
+    "contact": "Contact",
+    "bookConsultation": "Réserver une consultation"
+  },
+  "Hero": {
+    "title": "Transformez votre présence digitale",
+    "subtitle": "avec Rachid Dev",
+    "description": "Nous créons des expériences digitales premium qui stimulent la croissance des marques internationales.",
+    "ctaBook": "Réserver une consultation",
+    "ctaCaseStudies": "Voir les études de cas"
+  },
+  "TrustedBy": {
+    "title": "Approuvé par les leaders de l'industrie mondiaux"
+  },
+  "ServicesPreview": {
+    "title": "Nos services",
+    "subtitle": "Des solutions digitales complètes adaptées à vos besoins",
+    "webDevelopment": "Développement web",
+    "webDevelopmentDesc": "Sites web et applications sur mesure construits avec des technologies de pointe.",
+    "mobileApps": "Applications mobiles",
+    "mobileAppsDesc": "Applications natives et cross-platform pour iOS et Android.",
+    "digitalMarketing": "Marketing digital",
+    "digitalMarketingDesc": "Stratégies marketing basées sur les données pour booster votre présence en ligne.",
+    "dataAnalytics": "Analyse de données",
+    "dataAnalyticsDesc": "Transformez vos données en insights exploitables grâce à l'analyse avancée.",
+    "consulting": "Conseil",
+    "consultingDesc": "Conseils d'experts pour optimiser votre stratégie et vos opérations digitales.",
+    "cybersecurity": "Cybersécurité",
+    "cybersecurityDesc": "Protégez vos actifs numériques avec des solutions de sécurité de niveau entreprise.",
+    "learnMore": "En savoir plus"
+  },
+  "CaseStudiesPreview": {
+    "title": "Histoires de succès",
+    "subtitle": "Des résultats concrets pour des entreprises réelles",
+    "ecommerceRevolution": "Révolution e-commerce",
+    "ecommerceDesc": "Augmentation des ventes en ligne de 240% grâce à une plateforme sur mesure.",
+    "fintechInnovation": "Innovation Fintech",
+    "fintechDesc": "50 000 utilisateurs onboardés le premier mois.",
+    "healthcareAi": "IA en santé",
+    "healthcareDesc": "Précision diagnostique de 98% avec des solutions IA.",
+    "readMore": "Lire l'étude de cas"
+  },
+  "Testimonials": {
+    "title": "Ce que nos clients disent",
+    "subtitle": "Ils nous font confiance",
+    "testimonial1": "Rachid Dev a transformé notre présence digitale. L'expertise et le dévouement de l'équipe sont inégalés.",
+    "testimonial2": "Des résultats incroyables ! Notre application mobile domine maintenant le marché grâce à leur approche innovante.",
+    "testimonial3": "Professionnel, créatif et orienté résultats. Hautement recommandé pour tout projet digital."
+  },
+  "CTA": {
+    "title": "Prêt à faire évoluer votre marque ?",
+    "description": "Discutons de la façon dont nous pouvons vous aider à atteindre vos objectifs digitaux.",
+    "button": "Démarrer votre projet"
+  },
+  "Contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Nous serions ravis d'avoir de vos nouvelles. Remplissez le formulaire ci-dessous et nous vous répondrons sous 24 heures.",
+    "namePlaceholder": "Votre nom",
+    "emailPlaceholder": "Adresse email",
+    "phonePlaceholder": "Numéro de téléphone (facultatif)",
+    "messagePlaceholder": "Parlez-nous de votre projet...",
+    "send": "Envoyer",
+    "sending": "Envoi en cours...",
+    "successMessage": "Message envoyé avec succès ! Nous vous répondrons bientôt.",
+    "errorMessage": "Une erreur est survenue. Veuillez réessayer."
+  },
+  "Booking": {
+    "title": "Réserver une consultation",
+    "subtitle": "Planifiez un appel stratégique de 30 minutes avec notre équipe",
+    "namePlaceholder": "Votre nom",
+    "emailPlaceholder": "Adresse email",
+    "phonePlaceholder": "Numéro de téléphone",
+    "servicePlaceholder": "Sélectionner un service",
+    "submit": "Confirmer la réservation",
+    "submitting": "Réservation en cours...",
+    "successMessage": "Réservation confirmée ! Vérifiez votre email pour les détails.",
+    "errorMessage": "Échec de la réservation. Veuillez réessayer."
+  },
+  "About": {
+    "title": "À propos de Rachid Dev",
+    "subtitle": "Nous sommes une équipe d'experts passionnés dédiés à créer des expériences exceptionnelles.",
+    "storyTitle": "Notre histoire",
+    "story1": "Fondée en 2020 par Rachid, un stratège digital visionnaire passionné par l'innovation, notre agence est rapidement devenue un partenaire de confiance pour les marques internationales.",
+    "story2": "Nous croyons au pouvoir de la technologie pour transformer les entreprises et créer des connexions significatives. Notre mission est de fournir des solutions qui non seulement répondent, mais dépassent les attentes.",
+    "mission": "Mission",
+    "missionDesc": "Donner aux entreprises les moyens de réussir grâce à des solutions digitales de pointe.",
+    "vision": "Vision",
+    "visionDesc": "Devenir l'agence digitale leader reconnue pour son excellence dans le monde entier.",
+    "values": "Valeurs",
+    "valuesDesc": "Intégrité, Innovation et Réussite client.",
+    "global": "Portée mondiale",
+    "globalDesc": "Nous servons des clients en Amérique du Nord, en Europe et en Asie.",
+    "cta": "Travailler avec nous"
+  },
+  "Services": {
+    "title": "Nos services",
+    "subtitle": "Explorez notre gamme complète de services digitaux"
+  },
+  "CaseStudies": {
+    "title": "Études de cas",
+    "subtitle": "Découvrez comment nous avons aidé des entreprises à obtenir des résultats remarquables"
+  },
+  "Pricing": {
+    "title": "Plans tarifaires",
+    "subtitle": "Choisissez le plan qui correspond à vos besoins",
+    "starter": "Démarrage",
+    "starterDesc": "Parfait pour les petites entreprises et startups",
+    "professional": "Professionnel",
+    "professionalDesc": "Idéal pour les entreprises en croissance",
+    "enterprise": "Entreprise",
+    "enterpriseDesc": "Solutions personnalisées pour grandes organisations",
+    "feature1": "Gestion de projet complète",
+    "feature2": "Équipe de support dédiée",
+    "feature3": "Support gratuit de 30 jours",
+    "feature4": "Analyses avancées",
+    "feature5": "Communication prioritaire",
+    "feature6": "Révisions illimitées",
+    "starterCta": "Commencer",
+    "professionalCta": "Choisir ce plan",
+    "enterpriseCta": "Contacter les ventes"
+  },
+  "Blog": {
+  "title": "Blog",
+  "subtitle": "Conseils, tutoriels et tendances du secteur par nos experts.",
+  "readMore": "Lire la suite"
+}
+}

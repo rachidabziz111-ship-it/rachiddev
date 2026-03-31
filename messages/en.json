@@ -1,0 +1,134 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "services": "Services",
+    "caseStudies": "Case Studies",
+    "about": "About",
+    "blog": "Blog",
+    "pricing": "Pricing",
+    "contact": "Contact",
+    "bookConsultation": "Book Consultation"
+  },
+  "Hero": {
+    "title": "Transform Your Digital Presence",
+    "subtitle": "with Rachid Dev",
+    "description": "We craft premium digital experiences that drive growth for global brands.",
+    "ctaBook": "Book Consultation",
+    "ctaCaseStudies": "View Case Studies"
+  },
+  "TrustedBy": {
+    "title": "Trusted by industry leaders worldwide"
+  },
+  "ServicesPreview": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive digital solutions tailored to your business needs",
+    "webDevelopment": "Web Development",
+    "webDevelopmentDesc": "Custom websites and web apps built with cutting-edge technologies.",
+    "mobileApps": "Mobile Apps",
+    "mobileAppsDesc": "Native and cross-platform mobile applications for iOS and Android.",
+    "digitalMarketing": "Digital Marketing",
+    "digitalMarketingDesc": "Data-driven marketing strategies to boost your online presence.",
+    "dataAnalytics": "Data Analytics",
+    "dataAnalyticsDesc": "Turn your data into actionable insights with advanced analytics.",
+    "consulting": "Consulting",
+    "consultingDesc": "Expert advice to optimize your digital strategy and operations.",
+    "cybersecurity": "Cybersecurity",
+    "cybersecurityDesc": "Protect your digital assets with enterprise-grade security solutions.",
+    "learnMore": "Learn More"
+  },
+  "CaseStudiesPreview": {
+    "title": "Success Stories",
+    "subtitle": "Real results for real businesses",
+    "ecommerceRevolution": "E-commerce Revolution",
+    "ecommerceDesc": "Boosted online sales by 240% with a custom platform.",
+    "fintechInnovation": "Fintech Innovation",
+    "fintechDesc": "Onboarded 50K users in the first month.",
+    "healthcareAi": "Healthcare AI",
+    "healthcareDesc": "Achieved 98% diagnostic accuracy with AI solutions.",
+    "readMore": "Read Case Study"
+  },
+  "Testimonials": {
+    "title": "Client Love",
+    "subtitle": "What our clients say about working with us",
+    "testimonial1": "Rachid Dev transformed our digital presence. The team's expertise and dedication are unmatched.",
+    "testimonial2": "Incredible results! Our mobile app now leads the market thanks to their innovative approach.",
+    "testimonial3": "Professional, creative, and results-driven. Highly recommended for any digital project."
+  },
+  "CTA": {
+    "title": "Ready to Elevate Your Brand?",
+    "description": "Let's discuss how we can help you achieve your digital goals.",
+    "button": "Start Your Project"
+  },
+  "Contact": {
+    "title": "Get In Touch",
+    "subtitle": "We'd love to hear from you. Fill out the form below and we'll respond within 24 hours.",
+    "namePlaceholder": "Your Name",
+    "emailPlaceholder": "Email Address",
+    "phonePlaceholder": "Phone Number (Optional)",
+    "messagePlaceholder": "Tell us about your project...",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "successMessage": "Message sent successfully! We'll get back to you soon.",
+    "errorMessage": "Something went wrong. Please try again."
+  },
+  "Booking": {
+    "title": "Book a Consultation",
+    "subtitle": "Schedule a 30-minute strategy call with our team",
+    "namePlaceholder": "Your Name",
+    "emailPlaceholder": "Email Address",
+    "phonePlaceholder": "Phone Number",
+    "servicePlaceholder": "Select Service",
+    "submit": "Confirm Booking",
+    "submitting": "Booking...",
+    "successMessage": "Booking confirmed! Check your email for details.",
+    "errorMessage": "Booking failed. Please try again."
+  },
+  "About": {
+    "title": "About Rachid Dev",
+    "subtitle": "We're a team of passionate digital experts dedicated to crafting exceptional experiences.",
+    "storyTitle": "Our Story",
+    "story1": "Founded in 2020 by Rachid, a visionary digital strategist with a passion for innovation, our agency quickly became a trusted partner for global brands.",
+    "story2": "We believe in the power of technology to transform businesses and create meaningful connections. Our mission is to deliver solutions that not only meet but exceed expectations.",
+    "mission": "Mission",
+    "missionDesc": "Empower businesses with cutting-edge digital solutions.",
+    "vision": "Vision",
+    "visionDesc": "To be the leading digital agency recognized for excellence worldwide.",
+    "values": "Values",
+    "valuesDesc": "Integrity, Innovation, and Client Success.",
+    "global": "Global Reach",
+    "globalDesc": "Serving clients across North America, Europe, and Asia.",
+    "cta": "Work With Us"
+  },
+  "Services": {
+    "title": "Our Services",
+    "subtitle": "Explore our comprehensive range of digital services"
+  },
+  "CaseStudies": {
+    "title": "Case Studies",
+    "subtitle": "Explore how we've helped businesses achieve remarkable results"
+  },
+  "Pricing": {
+    "title": "Pricing Plans",
+    "subtitle": "Choose the plan that fits your business needs",
+    "starter": "Starter",
+    "starterDesc": "Perfect for small businesses and startups",
+    "professional": "Professional",
+    "professionalDesc": "Ideal for growing companies",
+    "enterprise": "Enterprise",
+    "enterpriseDesc": "Custom solutions for large organizations",
+    "feature1": "Full project management",
+    "feature2": "Dedicated support team",
+    "feature3": "30-day free support",
+    "feature4": "Advanced analytics",
+    "feature5": "Priority communication",
+    "feature6": "Unlimited revisions",
+    "starterCta": "Get Started",
+    "professionalCta": "Choose Plan",
+    "enterpriseCta": "Contact Sales"
+  },
+  "Blog": {
+  "title": "Blog",
+  "subtitle": "Insights, tutorials, and industry trends from our experts.",
+  "readMore": "Read More"
+}
+}
