@@ -6,5 +6,12 @@ export default createMiddleware({
 });
 
 export const config = {
-  matcher: ['/', '/(en|fr|ar)/:path*']
+  matcher: [
+    // يراقب الباب الرئيسي
+    '/',
+    // يراقب الروابط لي فيها اللغات
+    '/(en|fr|ar)/:path*',
+    // يراقب كاع الروابط الأخرى باش يوجهها للنڭليزية (باستثناء الملفات الأساسية ديال السيت)
+    '/((?!api|_next|_vercel|.*\\..*).*)'
+  ]
 };
